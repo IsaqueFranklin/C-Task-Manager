@@ -1,6 +1,5 @@
 #include <GL/gl.h>
 #include <GLFW/glfw3.h>
-#include <leif/leif.h>
 
 int main() {
     glfwInit();
